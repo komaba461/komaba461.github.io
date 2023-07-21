@@ -1,0 +1,2 @@
+# 🏆 Honors and Awards
+- *2015*, Six Talent Peaks: Research on High Performance Algorithm by Incorporating Subgraph Matching Strategy for Short Texts Extraction over Complex Large Scale Data, by Jiangsu Province Government 
